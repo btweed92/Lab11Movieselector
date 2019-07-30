@@ -1,0 +1,11 @@
+C:\Users\tweed\source\repos\Lab11MovieTime\Lab11MovieTime\bin\Debug\netcoreapp2.2\Lab11MovieTime.deps.json
+C:\Users\tweed\source\repos\Lab11MovieTime\Lab11MovieTime\bin\Debug\netcoreapp2.2\Lab11MovieTime.runtimeconfig.json
+C:\Users\tweed\source\repos\Lab11MovieTime\Lab11MovieTime\bin\Debug\netcoreapp2.2\Lab11MovieTime.runtimeconfig.dev.json
+C:\Users\tweed\source\repos\Lab11MovieTime\Lab11MovieTime\bin\Debug\netcoreapp2.2\Lab11MovieTime.dll
+C:\Users\tweed\source\repos\Lab11MovieTime\Lab11MovieTime\bin\Debug\netcoreapp2.2\Lab11MovieTime.pdb
+C:\Users\tweed\source\repos\Lab11MovieTime\Lab11MovieTime\obj\Debug\netcoreapp2.2\Lab11MovieTime.csprojAssemblyReference.cache
+C:\Users\tweed\source\repos\Lab11MovieTime\Lab11MovieTime\obj\Debug\netcoreapp2.2\Lab11MovieTime.csproj.CoreCompileInputs.cache
+C:\Users\tweed\source\repos\Lab11MovieTime\Lab11MovieTime\obj\Debug\netcoreapp2.2\Lab11MovieTime.AssemblyInfoInputs.cache
+C:\Users\tweed\source\repos\Lab11MovieTime\Lab11MovieTime\obj\Debug\netcoreapp2.2\Lab11MovieTime.AssemblyInfo.cs
+C:\Users\tweed\source\repos\Lab11MovieTime\Lab11MovieTime\obj\Debug\netcoreapp2.2\Lab11MovieTime.dll
+C:\Users\tweed\source\repos\Lab11MovieTime\Lab11MovieTime\obj\Debug\netcoreapp2.2\Lab11MovieTime.pdb
